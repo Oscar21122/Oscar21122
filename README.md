@@ -7,7 +7,7 @@
 
 - 🎓 I study Computer Science at Tecnológico de Monterrey  
 - 🚀 I'm currently focused on improving my problem-solving skills on **LeetCode**
-- 🎮 I enjoy watching series, movies, anime, and playing video games
+- 🎮 I enjoy watching anime, video games, sleeping well and working out.
 
 ---
 
